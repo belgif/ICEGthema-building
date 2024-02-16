@@ -1,0 +1,20 @@
+[
+  {
+    "name": "building-base",
+    "type": "ap",
+    "eap": "ICEG-Building-Stable15.eap",
+    "diagram": "ICEG-Building-Base",
+    "template": "building.j2",
+    "title": "Building Base",
+    "publication-state": "For acceptance",
+    "publication-date": "2024-02-08",
+    "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Role",
+    "site": "site-skeleton/building-base",
+    "repourl": "https://github.com/belgif/thematic/tree/master/",
+    "versionurl": "https://belgif.github.io/thematic/models/building",
+    "feedbackurl": "https://github.com/belgif/thematic/issues",
+    "standaardregisterurl": "TODO"
+  }
+]

@@ -1,4 +1,42 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;Role
+Florian;Barthelemy;PwC;;;E
+Christophe;Bahim;PwC;;;E
+Yaron;Dassonneville;PwC;;;E
+Jitse;De Cock;PwC;;;E
+Christophe;Van Loo;Digitaal Vlaanderen;;;C
+Claude;Hannecart;CIRB/CIBG/BRIC;;;C
+Cindy;Valvekens;Stad Leuven;;;C
+Bart;Boute;WVI;;;C
+Evy;Dewinter;FOD Finance;;;C
+Fabien;Krzewinski;CIRB/CIBG/BRIC;;;C
+Geert;Thijs;Digitaal Vlaanderen;;;C
+Grégoire;Verhulst;Belgian Buildings Agency;;;C
+Hugues;Lorent;Nationaal Geografisch Instituut (NGI);;;C
+Johan;Boogaerts;Fednot;;;C
+Leticia;Garcia;CFWB;;;C
+Marc;Bruyland;FOD BOSA;;;C
+Martin;Erpicum;CFWB;;;C
+Catalin;Turlica;CIRB/CIBG/BRIC;;;C
+Benoît;Fricheteau;CIRB/CIBG/BRIC;;;C
+Jan;Laporte;Vlaanderen;;;C
+Jordan;Ikalulu;Nationaal Geografisch Instituut (NGI);;;C
+Daniel;Reuviaux;SPW;;;C
+Gael;Kruwialis;Nationaal Geografisch Instituut (NGI);;;C
+Hendrik;van Hemelryck;Digitaal Vlaanderen;;;C
+Jean-Claude;Jasselette;SPW;;;C
+Mieke;Ryckoort;Stad Kortrijk;;;C
+Nathalie;Mertens;FOD Financiën - Patrimoniumdocumentatie;;;C
+Ralph;Boswell;Perspective.brussels;;;C
+Raphaël;Lebrun;Proximus;;;C
+Thomas;Ruhl;CIRB/CIBG/BRIC;;;C
+Yahsmeen;Coulon;Fednot;;;C
+Nathalie;Delattre;Nationaal Geografisch Instituut (NGI);;;C
+Paul;Van Lindt;Vlaanderen;;;C
+Christophe;Verschoore;National Registry;;;C
+Stefan;Van De Venster;National Registry;;;C
+Tom;Bols;National Registry;;;C
+Joris;Pasgang;National Registry;;;C
+Geert;Van Haute;Departement Omgeving (Flanders);;;C
+Liesbet;D’Hondt;FOD BOSA;;;C
+Jan;Vleugels;bpost;;;C
+François;Du Mortier;paradigm.brussels;;;C
