@@ -12,9 +12,9 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Role",
     "site": "site-skeleton/building",
-    "repourl": "https://github.com/belgif/thematic/tree/master/",
+    "repourl": "https://github.com/belgif/ICEGthema-building/tree/main",
     "versionurl": "https://belgif.github.io/thematic/models/building",
-    "feedbackurl": "https://github.com/belgif/thematic/issues",
+    "feedbackurl": "https://github.com/belgif/ICEGthema-building/issues",
     "standaardregisterurl": "TODO"
   }
 ]
